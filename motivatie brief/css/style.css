@@ -1,0 +1,22 @@
+body{
+	font-family: sans-serif;:;
+	padding: 10px;
+	background-image: url(../img/background.jpg);: 
+	background-repeat: no-repeat;
+    
+    background-attachment: fixed;
+}
+
+
+
+#paraaf { text-decoration: line-through;
+		  margin-left:10px; }
+
+#page{ background-color: white; 
+		opacity: 0.9;}
+
+p {padding-left: 10px;}
+h3 {padding-left: 10px;
+	padding-top: 10px;}
+h4 {padding-left: 10px;
+	padding-bottom:10px;}
